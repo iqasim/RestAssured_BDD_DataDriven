@@ -1,0 +1,37 @@
+2020-12-28 14:07:23 INFO  API Logger:20 - **************Started getting all booking ids test case execution
+2020-12-28 14:07:31 INFO  API Logger:63 - ********* Getting All Booking IDs Test Case execution is completed **********
+2020-12-28 14:10:16 INFO  API Logger:20 - **************Started getting all booking ids test case execution
+2020-12-28 14:10:24 INFO  API Logger:64 - ********* Getting All Booking IDs Test Case execution is completed **********
+2020-12-28 14:15:41 INFO  API Logger:19 - *************Started Get Single Booking ID Test Case
+2020-12-28 14:15:45 INFO  API Logger:48 - ********* Single Booking Id Test Case execution is completed **********
+2020-12-28 14:24:17 INFO  API Logger:25 - *************Started Execution of Booking Test Case
+2020-12-28 14:24:23 INFO  API Logger:90 - ********* Create Booking Test Case execution is completed **********
+2020-12-28 14:32:16 INFO  API Logger:20 - ***********Creating Auth Token*******************
+2020-12-28 14:32:22 INFO  API Logger:65 - ********* Auth Token Test Case execution is completed **********
+2020-12-28 14:37:21 INFO  API Logger:19 - ********* Started Creating Employee **********
+2020-12-28 14:37:26 INFO  API Logger:53 - ********* Create Employee Test Case execution is completed **********
+2020-12-28 15:37:03 INFO  API Logger:17 - **************Started getting all booking ids test case execution
+2020-12-28 15:37:10 INFO  API Logger:45 - ********* Getting All Booking IDs Test Case execution is completed **********
+2020-12-28 15:37:10 INFO  API Logger:19 - *************Started Get Single Booking ID Test Case
+2020-12-28 15:37:11 INFO  API Logger:48 - ********* Single Booking Id Test Case execution is completed **********
+2020-12-28 15:37:11 INFO  API Logger:20 - ***********Creating Auth Token*******************
+2020-12-28 15:37:15 INFO  API Logger:65 - ********* Auth Token Test Case execution is completed **********
+2020-12-28 15:37:15 INFO  API Logger:25 - *************Started Execution of Booking Test Case
+2020-12-28 15:37:16 INFO  API Logger:77 - ********* Create Booking Test Case execution is completed **********
+2020-12-28 15:37:16 INFO  API Logger:19 - ********* Started Creating Employee **********
+2020-12-28 15:37:17 INFO  API Logger:53 - ********* Create Employee Test Case execution is completed **********
+2021-01-24 15:38:43 INFO  API Logger:17 - **************Started getting all booking ids test case execution
+2021-01-24 15:38:49 INFO  API Logger:45 - ********* Getting All Booking IDs Test Case execution is completed **********
+2021-01-24 15:38:49 INFO  API Logger:19 - *************Started Get Single Booking ID Test Case
+2021-01-24 15:38:51 INFO  API Logger:48 - ********* Single Booking Id Test Case execution is completed **********
+2021-01-24 15:38:51 INFO  API Logger:19 - ***********Creating Auth Token*******************
+2021-01-24 15:38:53 INFO  API Logger:65 - ********* Auth Token Test Case execution is completed **********
+2021-01-24 15:38:53 INFO  API Logger:25 - *************Started Execution of Booking Test Case
+2021-01-24 15:38:55 INFO  API Logger:77 - ********* Create Booking Test Case execution is completed **********
+2021-01-24 15:38:55 INFO  API Logger:19 - ********* Started Creating Employee **********
+2021-01-24 15:38:56 INFO  API Logger:53 - ********* Create Employee Test Case execution is completed **********
+2021-01-24 16:23:16 INFO  API Logger:84 - ********* Create Booking Test Case execution is completed **********
+2021-01-24 16:27:30 INFO  API Logger:84 - ********* Create Booking Test Case execution is completed **********
+2021-01-24 16:32:38 INFO  API Logger:28 - *************Started Execution of Booking Test Case
+2021-01-24 16:32:44 INFO  API Logger:28 - *************Started Execution of Booking Test Case
+2021-01-24 16:32:46 INFO  API Logger:84 - ********* Create Booking Test Case execution is completed **********
